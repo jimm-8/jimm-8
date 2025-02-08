@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 ## 📈 GitHub Stats
 
-![Jimm's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=jimm-8&show_icons=true&theme=radical&cache_seconds=10])
+![jimm-8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimm-8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## 📫 How to Reach Me
 
