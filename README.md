@@ -24,10 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 - **Tools:** Git, VScode, Github, MySQL, Apache Netbeans, Jupyter Notebook
 - **Databases:** MySQL, PostgreSQL, MongoDB, [Other Databases]
 
-## 📈 GitHub Stats
-
-![jimm-8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimm-8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=10)
-
 ## 📫 How to Reach Me
 
 - **Email:** jimmarielcastillo@gmail.com
