@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 - **Languages:** Python, JavaScript, Java, CSS, HTML
 - **Frameworks:** React, Kivy, KivyMD
 - **Tools:** Git, VScode, Github, MySQL, Apache Netbeans, Jupyter Notebook
-- **Databases:** MySQL, PostgreSQL, MongoDB, [Other Databases]
+- **Databases:** MySQL, MongoDB, Firestore
 
 ## 📫 How to Reach Me
 
