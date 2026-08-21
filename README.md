@@ -1,51 +1,137 @@
 # Hi there, I'm Jimm! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding, problem-solving, and continuous learning. 
+I'm a Computer Engineer and full-stack developer from Batangas, Philippines, passionate about building practical software solutions, automating business processes, and continuously learning new technologies.
 
 ## 🚀 About Me
 
 - **Name:** Jimm
-- **Username:** jimm-8
+- **Username:** [jimm-8](https://github.com/jimm-8)
 - **Location:** Batangas, Philippines
-- **Interests:** Software Development, AI, Big Data Analytics, Web Development
+- **Focus:** Full-Stack Development, Business Process Automation, Software Development
+- **Interests:** AI, Enterprise Systems, Web Development, IoT, and Emerging Technologies
 
- ## 💼 Professional Experience
+## 💼 Professional Experience
 
-- **Frontend Developer** at St. John Majore Services Company Inc.
-  - I am responsible for creatively conveying their goals and purpose through engaging, and user friendly designs.
-<!--- **Past Experience:**
-  - **[Previous Job Title]** at [Previous Company]
-    - Brief description of your role and responsibilities. -->
+### Frontend Web Developer — St. John Majore Services Company Inc.
+
+- Developed the company's promotional website and internal payroll/HRIS system using **React.js and Vite**.
+- Built responsive, accessible, and cross-browser compatible interfaces.
+- Collaborated with HR, operations, and internal teams to translate business requirements into maintainable software solutions.
+
+### Full Stack Developer Intern — Batangas State University
+
+- Completed a **320-hour OJT internship** with ICT Services – Central Administration.
+- Led a team of interns in delivering projects including an **automated diploma platform** and **grading portal system**.
+- Coordinated development tasks, code reviews, and project timelines within an Agile environment.
+- Strengthened backend development skills using **PHP** and Git version control.
 
 ## 💻 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, CSS, HTML
-- **Frameworks:** React, Kivy, KivyMD
-- **Tools:** Git, VScode, Github, MySQL, Apache Netbeans, Jupyter Notebook
-- **Databases:** MySQL, MongoDB, Firestore
+### Languages
+- Python
+- PHP
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frontend & Web Development
+- React.js
+- Vite
+- Laravel Blade
+- Responsive Web Design
+- UI/UX
+
+### Backend & Frameworks
+- FastAPI
+- Node.js
+- Laravel
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
+- pgAdmin
+- Microsoft Office
+
+### Methodologies
+- Agile
+- SDLC
+- CI/CD Fundamentals
+
+### Other
+- IoT Systems
+- Microcontrollers
+- Hardware Prototyping
+- AI-Assisted Development
+
+## 🌟 Featured Projects
+
+### Certify — Automated Certification Management System
+
+**Undergraduate Thesis Project**
+
+A full-stack web-based certification management system developed for Batangas State University, Alangilan Campus.
+
+- Built using **React.js, Vite, FastAPI, and PostgreSQL**.
+- Automated certification processing, request tracking, and database workflows.
+- Reduced document processing time by **90%**, from 2.5 hours to under 15 minutes.
+- Generated certificate PDFs in under 3 seconds.
+- Designed and consumed RESTful APIs connecting frontend and backend systems.
+
+### SJM Promotional Website
+
+A responsive promotional website developed for St. John Majore Services Company Inc. to showcase the company's services and support its business goals.
+
+**Technologies:** React.js, Vite, JavaScript, CSS
+
+### SJM Payroll / HRIS System
+
+An internal business system designed to support payroll processing and employee management.
+
+**Technologies:** React.js, Vite, JavaScript
+
+## 🤖 AI-Assisted Development
+
+I actively explore AI-assisted development tools to improve my development workflow, research solutions, and learn new technologies.
+
+- GitHub Copilot
+- Claude
+- ChatGPT
+- Gemini
 
 ## 📫 How to Reach Me
 
 - **Email:** jimmarielcastillo@gmail.com
-- **LinkedIn:** www.linkedin.com/in/jimmariel
-- **Instagram:** @conconcastillo
+- **LinkedIn:** [linkedin.com/in/jimmariel](https://www.linkedin.com/in/jimmariel)
+- **GitHub:** [github.com/jimm-8](https://github.com/jimm-8)
 
-## 🌱 Projects & Contributions
+## 🌱 Currently Learning
 
-- **SJM Promotional Website** - Promotional website for the company with a focus of promoting their business and gaining clients.
-- **SJM Payroll System** - HR IS that will handle their company's payroll system and employee management.
-<!-- - **Open Source Contributions:**
-  - **[Contribution Name]** - Brief description of the contribution. -->
+I'm interested in expanding my knowledge in:
+
+- Enterprise Systems & ERP
+- Solution Architecture
+- AI & Emerging Technologies
+- Backend & API Development
+- Cloud Technologies
+- Software Architecture
+- IoT & Hardware Systems
 
 ## 🌟 Fun Facts
 
-- I love watching sitcoms and movies.
-- I'm an avid reader and enjoy exploring new technologies.
-- I spend some of my time building my skills in programming.
-- I play instruments like guitar, ukulele, and cajon.
-- I play badminton.
-- I wanna expand my horizon to hardware.
+- 🎸 I play guitar, ukulele, and cajon.
+- 🏸 I enjoy playing badminton.
+- 🎬 I enjoy watching sitcoms and movies.
+- 💻 I enjoy building projects to improve my programming skills.
+- 🔧 I'm interested in expanding my knowledge of hardware and IoT.
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
