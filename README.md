@@ -7,7 +7,7 @@ I'm a Computer Engineer and full-stack developer from Batangas, Philippines, pas
 - **Name:** Jimm
 - **Username:** [jimm-8](https://github.com/jimm-8)
 - **Location:** Batangas, Philippines
-- **Focus:** Full-Stack Development, Business Process Automation, Software Development
+- **Focus:** Frontend Development, Full-Stack Web Systems, Business Process Automation
 - **Interests:** AI, Enterprise Systems, Web Development, IoT, and Emerging Technologies
 
 ## 💼 Professional Experience
