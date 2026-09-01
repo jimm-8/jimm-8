@@ -12,7 +12,7 @@ I'm a Computer Engineer and full-stack developer from Batangas, Philippines, pas
 
 ## 💼 Professional Experience
 
-### Frontend Web Developer — St. John Majore Services Company Inc.
+### Frontend Web Developer (Freelance/Contract) — St. John Majore Services Company Inc.
 
 - Developed the company's promotional website and internal payroll/HRIS system using **React.js and Vite**.
 - Built responsive, accessible, and cross-browser compatible interfaces.
@@ -23,7 +23,7 @@ I'm a Computer Engineer and full-stack developer from Batangas, Philippines, pas
 - Completed a **320-hour OJT internship** with ICT Services – Central Administration.
 - Led a team of interns in delivering projects including an **automated diploma platform** and **grading portal system**.
 - Coordinated development tasks, code reviews, and project timelines within an Agile environment.
-- Strengthened backend development skills using **PHP** and Git version control.
+-  Strengthened full-stack development skills by adapting to a new **PHP** backend stack and applying Git version control best practices.
 
 ## 💻 Technologies & Tools
 
@@ -73,7 +73,7 @@ I'm a Computer Engineer and full-stack developer from Batangas, Philippines, pas
 
 ## 🌟 Featured Projects
 
-### Certify — Automated Certification Management System
+### [Certify — Automated Certification Management System](https://github.com/jimm-8/certify)
 
 **Undergraduate Thesis Project**
 
@@ -86,12 +86,14 @@ A full-stack web-based certification management system developed for Batangas St
 - Designed and consumed RESTful APIs connecting frontend and backend systems.
 
 ### SJM Promotional Website
+*Private client project — code not publicly available*
 
 A responsive promotional website developed for St. John Majore Services Company Inc. to showcase the company's services and support its business goals.
 
 **Technologies:** React.js, Vite, JavaScript, CSS
 
 ### SJM Payroll / HRIS System
+*Private client project — code not publicly available*
 
 An internal business system designed to support payroll processing and employee management.
 
